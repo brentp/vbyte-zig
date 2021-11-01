@@ -1,0 +1,3 @@
+[submodule "libvbyte"]
+	path = src/libvbyte
+	url = https://github.com/cruppstahl/libvbyte
